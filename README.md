@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Everyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=everyt&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/everyt/github-readme-stats)
+[![Everyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=everyt&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/everyt)
 
