@@ -1,4 +1,4 @@
-## 안녕하세요. 👋
+## Hi, how are you? 👋
 
 <div align="center">
   <a href="https://github.com/everyt">
