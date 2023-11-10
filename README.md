@@ -1,8 +1,8 @@
-## 안녕하세요, 저는 풀스택 개발자를 희망하는 Everyt입니다. 👋
+## 안녕하세요. 👋
 
 <div align="center">
   <a href="https://github.com/everyt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everyt&hide=stars,contribs&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everyt&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everyt&layout=compact"/>
 </div>
   
