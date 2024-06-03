@@ -1,7 +1,11 @@
+
 <div align="center">
   <a href="https://github.com/everyt">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everyt&layout=compact"/>
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=everyt&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everyt&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everyt&layout=compact"/>
+</div>
+
+<div align="center">
   <div style="display: inline_block"><br>
     <img align="center" alt="Html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
