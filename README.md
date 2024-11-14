@@ -5,7 +5,7 @@
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/lines/everyt"
-      width="800"
+      width="900"
       height="80"
     />
   </a>
